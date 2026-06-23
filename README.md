@@ -76,7 +76,7 @@ const mari = {
 ## 🌙 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/marisantosx">
+  <a href="https://www.linkedin.com/in/mariana-s-n-dos-santos-a232a7355">
     <img src="https://img.shields.io/badge/LinkedIn-0d0015?style=for-the-badge&logo=linkedin&logoColor=cc44ff&labelColor=8b0000"/>
   </a>
   <a href="https://github.com/MariSantosx">
