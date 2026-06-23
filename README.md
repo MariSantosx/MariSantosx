@@ -67,7 +67,7 @@ const mari = {
 <div align="center">
   <img src="https://i.pinimg.com/originals/07/40/73/0740739f5e31db38b60b1df3cb9ec0a4.gif" width="200"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=Aquele+que+não+aprende+nunca+cresce.;Code+is+my+Sharingan.+👁️;Front-End+Dev+em+evolução+contínua.;Itachi+disse%3A+nada+é+impossível." alt="Typing SVG"/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=Aquele+que+nao+aprende+nunca+cresce.;Code+is+my+Sharingan.+👁️;Front-End+Dev+em+evolucao+continua.;Itachi+disse%3A+nada+e+impossivel.)
 </div>
 
 ---
